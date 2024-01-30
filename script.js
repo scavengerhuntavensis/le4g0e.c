@@ -18,6 +18,6 @@ const checkAns = (correct, mainContent, input) => {
         const fiveSeconds = setTimeout(() => {
             mainContent.style.height = 0;
             correct.innerHTML = "Guessing the prize might not have been easy, but found if you have, the location is one that could make you queasy, Now travel to the point where keepers of the gold keep the wealth, Where no magic works to steal- even stealth.";
-        }, 2000);
+        }, 1000);
     }
 }   
